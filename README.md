@@ -1,8 +1,8 @@
-# jesusalpha4-cpu
+
 
 <div align="center" style="background-color: #004d98; border: 5px solid #a50044; border-radius: 12px; padding: 40px 20px; max-width: 900px; margin: 0 auto; color: #ffffff; font-family: Arial, sans-serif;">
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a54942cf09ca7efcb182415/1515566371194-07H36W3N9L9Q6M2X73CO/barcelona.png" width="120" alt="FC Barcelona Logo" />
+<img src="https://dl.svgcdn.com/png/arcticons/fc-barcelona-400.png" width="120" alt="FC Barcelona Logo" />
 
 <h2 style="color: #edbb00; margin-top: 15px; font-weight: bold;">Hello, My Name Is Alejandro!</h2>
 
